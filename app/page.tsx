@@ -1,7 +1,6 @@
 import Header from "@/components/Header";
 import "./globals.css";
 import { Figtree } from "next/font/google";
-import Image from "next/image";
 
 const font = Figtree({ subsets: ["latin"] });
 
